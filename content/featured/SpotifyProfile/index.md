@@ -1,15 +1,12 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: '6502 Computer'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - ASM
+  - Digital Logic
+  - Computer Architecture
+  - Processors
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A fully custom-built 6502 computer, inspired by Ben Eater’s educational series on building an 8-bit breadboard computer. This project explores the fundamentals of CPU architecture, clock cycles, memory addressing, and data flow. Assembled with discrete logic components, it serves as a hands-on learning tool to deepen my understanding of how modern processors operate at the lowest level.
