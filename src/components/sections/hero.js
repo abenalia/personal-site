@@ -68,7 +68,7 @@ const Hero = () => {
         I’m an electrical engineering student passionate about building hardware that pushes
         boundaries and exploring the future of quantum technology. Currently, I’m sharpening my
         skills and knowledge in Ottawa at the{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+        <a href="https://www.uottawa.ca/en" target="_blank" rel="noreferrer">
           University of Ottawa
         </a>
         .
